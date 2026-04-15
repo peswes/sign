@@ -1,0 +1,19 @@
+{
+  "name": "sign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+"scripts": {
+    "dev": "vercel dev",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^9.4.1"
+  }
+}
